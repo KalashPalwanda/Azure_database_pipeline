@@ -1,5 +1,5 @@
 - task: SqlAzureDacpacDeployment@1
-  displayName: Execute Azure SQL : DacpacTask
+  displayName: Execute Azure SQL DacpacTask
   inputs:
     azureSubscription: 'Free Trial'
     ServerName: 'azure-pipeline-server.database.windows.net'
